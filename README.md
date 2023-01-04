@@ -28,13 +28,17 @@ Random forest classification scripts:
 Creates model and generates variable importance information to classify fields as irrigated or non-irrigated. 
 
 2.	or 1. Blueberry_Spectral_classifier_watpot.R
+
 Creates model and generates variable importance information to predict water stress or water potential in fields. 
 
 Blueberry_hyperspecGenFunctionRanger.R
 Blueberry_Image_classifier.R
+	
 	Classifies image using the generated model.
 Blueberry_LandCoverEstimator.R
 	
 Scripts that are irrelevant and should be removed:
+
 Blueberry_mask.R
+
 ashhealth_data_arrange.R
